@@ -1,0 +1,55 @@
+- Install Boiler plate React application
+- Create and run basic React application
+- JSX
+- React Components
+- Passing properties to Components
+- Render Components conditionally
+- Display list of Components
+- Handle clicks and other events
+- Style Components
+- Using state in Components
+- Decide where to put and maintain the state
+- Lifecycle events in Components
+
+*********************************************
+- Install and setup React router
+- Use URL parameters and Query parameters
+- Implementing NotFound pages
+- Redirecting with React Router
+- Redirecting programmatically
+******************************************
+
+- Create and manage forms in React(Controlled/Uncontrolled)
+- Build a navigation sidebar
+- Nested routers
+- Load data and make network requests
+- Using children property
+
+****************************************
+- Class based Components vs Functional Components
+******************************************
+
+- Single responsibility principle
+- Inheritance Vs Composition
+
+- Use object destructuring syntax rather than directly using referring props object
+- Use separate components if needed rather than using separate funtion based rendering for different UI elements in render body
+- Use unique key in list rendering. Avoid using indexes
+- Use separate React hooks for maintaining state. Don't combine everything into single state
+
+
+- Use context to share information
+- Use local storage for persistence
+
+- Create custom React hooks
+
+
+React boilerplate options
+*************************
+- create-react-app
+- NEXT JS
+- Gatsby
+- react boilerplate
+- razzle
+
+
